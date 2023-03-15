@@ -1,3 +1,8 @@
+function exibirMsg(){
+    console.log("estou exibindo uma msg")
+}
+exibirMsg()
+
 function teste(estafuncao){
     console.log(estafuncao);
 }
